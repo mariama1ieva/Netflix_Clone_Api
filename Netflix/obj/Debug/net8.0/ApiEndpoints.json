@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Netflix.Controllers.PlanController",
+    "Method": "Create",
+    "RelativePath": "api/Plan",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Netflix.Service.DTOs.Plan.PlanCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
