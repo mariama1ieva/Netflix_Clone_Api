@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Netflix.Repository;
 using Netflix.Repository.DAL;
-using Netflix.Service;
+using Service;
 
 var builder = WebApplication.CreateBuilder(args);
 

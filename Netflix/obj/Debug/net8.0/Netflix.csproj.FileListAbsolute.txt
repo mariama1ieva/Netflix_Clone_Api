@@ -1,3 +1,10 @@
+C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\obj\Debug\net8.0\Netflix.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\obj\Debug\net8.0\Netflix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\obj\Debug\net8.0\Netflix.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\obj\Debug\net8.0\Netflix.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\obj\Debug\net8.0\Netflix.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\obj\Debug\net8.0\Netflix.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\obj\Debug\net8.0\Netflix.sourcelink.json
 C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\bin\Debug\net8.0\appsettings.json
 C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\bin\Debug\net8.0\Netflix.exe
@@ -5,6 +12,8 @@ C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\bin\Debug\net8.0\Netflix.deps.json
 C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\bin\Debug\net8.0\Netflix.runtimeconfig.json
 C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\bin\Debug\net8.0\Netflix.dll
 C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\bin\Debug\net8.0\Netflix.pdb
+C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\bin\Debug\net8.0\Azure.Identity.dll
 C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\bin\Debug\net8.0\Humanizer.dll
@@ -126,13 +135,13 @@ C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\bin\Debug\net8.0\runtimes\win\lib\
 C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\obj\Debug\net8.0\Netflix.csproj.AssemblyReference.cache
-C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\obj\Debug\net8.0\Netflix.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\obj\Debug\net8.0\Netflix.AssemblyInfoInputs.cache
-C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\obj\Debug\net8.0\Netflix.AssemblyInfo.cs
-C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\obj\Debug\net8.0\Netflix.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\bin\Debug\net8.0\Domain.dll
+C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\bin\Debug\net8.0\Repository.dll
+C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\bin\Debug\net8.0\Service.dll
+C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\bin\Debug\net8.0\Service.pdb
+C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\bin\Debug\net8.0\Domain.pdb
+C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\bin\Debug\net8.0\Repository.pdb
 C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\obj\Debug\net8.0\Netflix.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\obj\Debug\net8.0\Netflix.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\obj\Debug\net8.0\staticwebassets\msbuild.Netflix.Microsoft.AspNetCore.StaticWebAssets.props
@@ -147,5 +156,3 @@ C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\obj\Debug\net8.0\refint\Netflix.dl
 C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\obj\Debug\net8.0\Netflix.pdb
 C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\obj\Debug\net8.0\Netflix.genruntimeconfig.cache
 C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\obj\Debug\net8.0\ref\Netflix.dll
-C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\bin\Debug\net8.0\AutoMapper.dll
-C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

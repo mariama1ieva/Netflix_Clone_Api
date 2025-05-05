@@ -3,60 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{227AD23E-4B93-478F-8F1F-BE536F6C0B60}|Netflix\\Netflix.csproj|c:\\users\\asus\\desktop\\netflix\\netflix\\netflix\\controllers\\plancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{227AD23E-4B93-478F-8F1F-BE536F6C0B60}|Netflix\\Netflix.csproj|solutionrelative:netflix\\controllers\\plancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7AE9D9CF-8DCA-4CE3-B1CD-5321FEB9B1F6}|Service\\Service.csproj|c:\\users\\asus\\desktop\\netflix\\netflix\\service\\service.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7AE9D9CF-8DCA-4CE3-B1CD-5321FEB9B1F6}|Service\\Service.csproj|solutionrelative:service\\service.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{227AD23E-4B93-478F-8F1F-BE536F6C0B60}|Netflix\\Netflix.csproj|c:\\users\\asus\\desktop\\netflix\\netflix\\netflix\\domain\\configuration\\planconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{227AD23E-4B93-478F-8F1F-BE536F6C0B60}|Netflix\\Netflix.csproj|solutionrelative:netflix\\domain\\configuration\\planconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{398308F2-4DE2-43A3-9D9F-040AED74BBBD}|Repository\\Repository.csproj|c:\\users\\asus\\desktop\\netflix\\netflix\\repository\\repository.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{398308F2-4DE2-43A3-9D9F-040AED74BBBD}|Repository\\Repository.csproj|solutionrelative:repository\\repository.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{227AD23E-4B93-478F-8F1F-BE536F6C0B60}|Netflix\\Netflix.csproj|c:\\users\\asus\\desktop\\netflix\\netflix\\netflix\\repository\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{227AD23E-4B93-478F-8F1F-BE536F6C0B60}|Netflix\\Netflix.csproj|solutionrelative:netflix\\repository\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{398308F2-4DE2-43A3-9D9F-040AED74BBBD}|Repository\\Repository.csproj|c:\\users\\asus\\desktop\\netflix\\netflix\\repository\\migrations\\20250502201007__initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398308F2-4DE2-43A3-9D9F-040AED74BBBD}|Repository\\Repository.csproj|solutionrelative:repository\\migrations\\20250502201007__initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{227AD23E-4B93-478F-8F1F-BE536F6C0B60}|Netflix\\Netflix.csproj|c:\\users\\asus\\desktop\\netflix\\netflix\\netflix\\service\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{227AD23E-4B93-478F-8F1F-BE536F6C0B60}|Netflix\\Netflix.csproj|solutionrelative:netflix\\service\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{227AD23E-4B93-478F-8F1F-BE536F6C0B60}|Netflix\\Netflix.csproj|c:\\users\\asus\\desktop\\netflix\\netflix\\netflix\\service\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{227AD23E-4B93-478F-8F1F-BE536F6C0B60}|Netflix\\Netflix.csproj|solutionrelative:netflix\\service\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{227AD23E-4B93-478F-8F1F-BE536F6C0B60}|Netflix\\Netflix.csproj|c:\\users\\asus\\desktop\\netflix\\netflix\\netflix\\repository\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{227AD23E-4B93-478F-8F1F-BE536F6C0B60}|Netflix\\Netflix.csproj|solutionrelative:netflix\\repository\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{227AD23E-4B93-478F-8F1F-BE536F6C0B60}|Netflix\\Netflix.csproj|c:\\users\\asus\\desktop\\netflix\\netflix\\netflix\\repository\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{227AD23E-4B93-478F-8F1F-BE536F6C0B60}|Netflix\\Netflix.csproj|solutionrelative:netflix\\repository\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{227AD23E-4B93-478F-8F1F-BE536F6C0B60}|Netflix\\Netflix.csproj|c:\\users\\asus\\desktop\\netflix\\netflix\\netflix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{227AD23E-4B93-478F-8F1F-BE536F6C0B60}|Netflix\\Netflix.csproj|solutionrelative:netflix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{227AD23E-4B93-478F-8F1F-BE536F6C0B60}|Netflix\\Netflix.csproj|c:\\users\\asus\\desktop\\netflix\\netflix\\netflix\\service\\services\\interface\\iplanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{227AD23E-4B93-478F-8F1F-BE536F6C0B60}|Netflix\\Netflix.csproj|solutionrelative:netflix\\service\\services\\interface\\iplanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{227AD23E-4B93-478F-8F1F-BE536F6C0B60}|Netflix\\Netflix.csproj|c:\\users\\asus\\desktop\\netflix\\netflix\\netflix\\service\\services\\planservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{227AD23E-4B93-478F-8F1F-BE536F6C0B60}|Netflix\\Netflix.csproj|solutionrelative:netflix\\service\\services\\planservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{227AD23E-4B93-478F-8F1F-BE536F6C0B60}|Netflix\\Netflix.csproj|c:\\users\\asus\\desktop\\netflix\\netflix\\netflix\\repository\\repositories\\planrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{227AD23E-4B93-478F-8F1F-BE536F6C0B60}|Netflix\\Netflix.csproj|solutionrelative:netflix\\repository\\repositories\\planrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{227AD23E-4B93-478F-8F1F-BE536F6C0B60}|Netflix\\Netflix.csproj|c:\\users\\asus\\desktop\\netflix\\netflix\\netflix\\repository\\repositories\\interface\\iplanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{227AD23E-4B93-478F-8F1F-BE536F6C0B60}|Netflix\\Netflix.csproj|solutionrelative:netflix\\repository\\repositories\\interface\\iplanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{227AD23E-4B93-478F-8F1F-BE536F6C0B60}|Netflix\\Netflix.csproj|c:\\users\\asus\\desktop\\netflix\\netflix\\netflix\\service\\dtos\\plan\\plancreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{227AD23E-4B93-478F-8F1F-BE536F6C0B60}|Netflix\\Netflix.csproj|solutionrelative:netflix\\service\\dtos\\plan\\plancreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{227AD23E-4B93-478F-8F1F-BE536F6C0B60}|Netflix\\Netflix.csproj|c:\\users\\asus\\desktop\\netflix\\netflix\\netflix\\domain\\models\\entities\\plan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{227AD23E-4B93-478F-8F1F-BE536F6C0B60}|Netflix\\Netflix.csproj|solutionrelative:netflix\\domain\\models\\entities\\plan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D09CB01F-8708-4D60-8510-8DFB910481A8}|Domain\\Domain.csproj|c:\\users\\asus\\desktop\\netflix\\netflix\\domain\\models\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09CB01F-8708-4D60-8510-8DFB910481A8}|Domain\\Domain.csproj|solutionrelative:domain\\models\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,192 +26,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Netflix\\Program.cs",
-              "RelativeDocumentMoniker": "Netflix\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Netflix\\Program.cs",
-              "RelativeToolTip": "Netflix\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T22:43:46.66Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Netflix\\Repository\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Netflix\\Repository\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Netflix\\Repository\\DependencyInjection.cs",
-              "RelativeToolTip": "Netflix\\Repository\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T22:42:24.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Netflix\\Repository\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Netflix\\Repository\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Netflix\\Repository\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "Netflix\\Repository\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T22:08:26.68Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Netflix\\Repository\\Repositories\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "Netflix\\Repository\\Repositories\\BaseRepository.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Netflix\\Repository\\Repositories\\BaseRepository.cs",
-              "RelativeToolTip": "Netflix\\Repository\\Repositories\\BaseRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T22:08:02.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PlanRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Netflix\\Repository\\Repositories\\PlanRepository.cs",
-              "RelativeDocumentMoniker": "Netflix\\Repository\\Repositories\\PlanRepository.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Netflix\\Repository\\Repositories\\PlanRepository.cs",
-              "RelativeToolTip": "Netflix\\Repository\\Repositories\\PlanRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T22:05:51.556Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IPlanRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Netflix\\Repository\\Repositories\\Interface\\IPlanRepository.cs",
-              "RelativeDocumentMoniker": "Netflix\\Repository\\Repositories\\Interface\\IPlanRepository.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Netflix\\Repository\\Repositories\\Interface\\IPlanRepository.cs",
-              "RelativeToolTip": "Netflix\\Repository\\Repositories\\Interface\\IPlanRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T22:05:09.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PlanService.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Netflix\\Service\\Services\\PlanService.cs",
-              "RelativeDocumentMoniker": "Netflix\\Service\\Services\\PlanService.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Netflix\\Service\\Services\\PlanService.cs",
-              "RelativeToolTip": "Netflix\\Service\\Services\\PlanService.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAADwvwcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T22:03:39.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PlanCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Netflix\\Service\\DTOs\\Plan\\PlanCreateDto.cs",
-              "RelativeDocumentMoniker": "Netflix\\Service\\DTOs\\Plan\\PlanCreateDto.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Netflix\\Service\\DTOs\\Plan\\PlanCreateDto.cs",
-              "RelativeToolTip": "Netflix\\Service\\DTOs\\Plan\\PlanCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T22:02:06.227Z",
+              "DocumentIndex": 0,
+              "Title": "Service",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Service\\Service.csproj",
+              "RelativeDocumentMoniker": "Service\\Service.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Service\\Service.csproj",
+              "RelativeToolTip": "Service\\Service.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T19:55:29.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PlanConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Netflix\\Domain\\Configuration\\PlanConfiguration.cs",
-              "RelativeDocumentMoniker": "Netflix\\Domain\\Configuration\\PlanConfiguration.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Netflix\\Domain\\Configuration\\PlanConfiguration.cs",
-              "RelativeToolTip": "Netflix\\Domain\\Configuration\\PlanConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T21:59:28.039Z",
+              "Title": "Repository",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Repository\\Repository.csproj",
+              "RelativeDocumentMoniker": "Repository\\Repository.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Repository\\Repository.csproj",
+              "RelativeToolTip": "Repository\\Repository.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T19:55:19.06Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IPlanService.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Netflix\\Service\\Services\\Interface\\IPlanService.cs",
-              "RelativeDocumentMoniker": "Netflix\\Service\\Services\\Interface\\IPlanService.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Netflix\\Service\\Services\\Interface\\IPlanService.cs",
-              "RelativeToolTip": "Netflix\\Service\\Services\\Interface\\IPlanService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "20250502201007__initial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Repository\\Migrations\\20250502201007__initial.Designer.cs",
+              "RelativeDocumentMoniker": "Repository\\Migrations\\20250502201007__initial.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Repository\\Migrations\\20250502201007__initial.Designer.cs",
+              "RelativeToolTip": "Repository\\Migrations\\20250502201007__initial.Designer.cs",
+              "ViewState": "AgIAADwBAAAAAAAAAAAwwEYBAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T21:56:36.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PlanController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Netflix\\Controllers\\PlanController.cs",
-              "RelativeDocumentMoniker": "Netflix\\Controllers\\PlanController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Netflix\\Controllers\\PlanController.cs",
-              "RelativeToolTip": "Netflix\\Controllers\\PlanController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T21:55:48.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Plan.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Netflix\\Domain\\Models\\Entities\\Plan.cs",
-              "RelativeDocumentMoniker": "Netflix\\Domain\\Models\\Entities\\Plan.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Netflix\\Domain\\Models\\Entities\\Plan.cs",
-              "RelativeToolTip": "Netflix\\Domain\\Models\\Entities\\Plan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T21:55:13.155Z",
+              "WhenOpened": "2025-05-05T19:52:55.495Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Netflix\\Service\\Helpers\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "Netflix\\Service\\Helpers\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Netflix\\Service\\Helpers\\MappingProfile.cs",
-              "RelativeToolTip": "Netflix\\Service\\Helpers\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Domain\\Models\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Domain\\Models\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Domain\\Models\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T21:14:23.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Netflix\\Service\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Netflix\\Service\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Netflix\\Netflix\\Netflix\\Service\\DependencyInjection.cs",
-              "RelativeToolTip": "Netflix\\Service\\DependencyInjection.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T21:12:30.799Z",
+              "WhenOpened": "2025-05-05T19:51:10.557Z",
               "EditorCaption": ""
             }
           ]

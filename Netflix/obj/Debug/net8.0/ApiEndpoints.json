@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "Netflix.Controllers.PlanController",
+    "ContainingType": "Netflix.Areas.AdminPanel.Controllers.PlanController",
     "Method": "Create",
     "RelativePath": "api/Plan",
     "HttpMethod": "POST",
