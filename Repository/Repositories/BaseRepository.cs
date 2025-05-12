@@ -26,6 +26,7 @@ namespace Netflix.Repository.Repositories
 
         async Task IBaseRepository<T>.DeleteAsync(T entity)
         {
+
             _entities.Remove(entity);
             await _context.SaveChangesAsync();
         }

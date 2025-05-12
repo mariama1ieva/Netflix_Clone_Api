@@ -14,5 +14,68 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Netflix.Areas.AdminPanel.Controllers.PlanController",
+    "Method": "GetAllPlans",
+    "RelativePath": "api/Plan",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Netflix.Areas.AdminPanel.Controllers.PlanController",
+    "Method": "DeletePlan",
+    "RelativePath": "api/Plan",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Netflix.Areas.AdminPanel.Controllers.PlanController",
+    "Method": "GetByIdPlan",
+    "RelativePath": "api/Plan/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Netflix.Areas.AdminPanel.Controllers.PlanController",
+    "Method": "Edit",
+    "RelativePath": "api/Plan/edit/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "Service.DTOs.Plan.PlanEditDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

@@ -247,6 +247,10 @@
             "Microsoft.Extensions.Identity.Core": {
               "target": "Package",
               "version": "[8.0.15, )"
+            },
+            "System.Linq": {
+              "target": "Package",
+              "version": "[4.3.0, )"
             }
           },
           "imports": [

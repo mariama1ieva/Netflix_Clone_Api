@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Netflix.Service.DTOs.Plan;
+using Service.DTOs.Plan;
 using Service.Services.Interface;
 
 namespace Netflix.Areas.AdminPanel.Controllers
@@ -23,6 +24,30 @@ namespace Netflix.Areas.AdminPanel.Controllers
             await _service.CreateAsync(request);
             //return CreatedAtAction(nameof(Create), new { reponse = "Success" });
             return Ok();
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> GetAllPlans()
+        {
+            return Ok(await _service.GetAllPlans());
+        }
+
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetByIdPlan([FromRoute] int id)
+        {
+            return Ok(await _service.GetByIdAsync(id));
+        }
+
+        [HttpDelete]
+        public async Task<IActionResult> DeletePlan([FromRoute] int id)
+        {
+            return Ok(await _service.DeletePlanAsync(id));
+        }
+        [HttpPut("edit/{id}")]
+        public async Task<IActionResult> Edit([FromRoute] int id, PlanEditDto request)
+        {
+            var result = await _service.UpdatePlanEditAsync(request);
+            return Ok(result);
         }
     }
 }
