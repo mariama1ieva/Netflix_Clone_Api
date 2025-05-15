@@ -1,5 +1,7 @@
-﻿using Netflix.Domain.Models.Entities;
+﻿using Domain.Models.Entities;
+using Netflix.Domain.Models.Entities;
 using Netflix.Service.DTOs.Plan;
+using Service.DTOs.Person;
 using Service.DTOs.Plan;
 
 
@@ -16,6 +18,11 @@ namespace Service.Helpers
                 .ForMember(dest => dest.Id, opt => opt.Ignore());
 
 
+            CreateMap<PersonCreateDto, Person>();
+            CreateMap<Person, GetPeopleDto>();
+            //CreateMap<Plan, PlanEditDto>();
+            //CreateMap<PlanEditDto, Plan>()
+            //    .ForMember(dest => dest.Id, opt => opt.Ignore());
         }
     }
 }

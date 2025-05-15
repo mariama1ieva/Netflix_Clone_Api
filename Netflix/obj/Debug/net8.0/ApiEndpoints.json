@@ -1,5 +1,47 @@
 [
   {
+    "ContainingType": "Netflix.Areas.AdminPanel.Controllers.PersonController",
+    "Method": "Create",
+    "RelativePath": "api/Person",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Service.DTOs.Person.PersonCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Netflix.Areas.AdminPanel.Controllers.PersonController",
+    "Method": "GetAllPeople",
+    "RelativePath": "api/Person",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Netflix.Areas.AdminPanel.Controllers.PersonController",
+    "Method": "GetById",
+    "RelativePath": "api/Person/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Netflix.Areas.AdminPanel.Controllers.PlanController",
     "Method": "Create",
     "RelativePath": "api/Plan",

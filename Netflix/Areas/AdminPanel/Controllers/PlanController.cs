@@ -22,7 +22,6 @@ namespace Netflix.Areas.AdminPanel.Controllers
         {
             if (!ModelState.IsValid) return BadRequest(ModelState);
             await _service.CreateAsync(request);
-            //return CreatedAtAction(nameof(Create), new { reponse = "Success" });
             return Ok();
         }
 
