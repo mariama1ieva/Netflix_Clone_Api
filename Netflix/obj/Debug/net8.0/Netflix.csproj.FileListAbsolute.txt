@@ -141,7 +141,6 @@ C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\bin\Debug\net8.0\Service.dll
 C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\bin\Debug\net8.0\Service.pdb
 C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\bin\Debug\net8.0\Domain.pdb
 C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\bin\Debug\net8.0\Repository.pdb
-C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\obj\Debug\net8.0\Netflix.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\ASUS\Desktop\Netflix\Netflix\Netflix\obj\Debug\net8.0\staticwebassets\msbuild.Netflix.Microsoft.AspNetCore.StaticWebAssets.props

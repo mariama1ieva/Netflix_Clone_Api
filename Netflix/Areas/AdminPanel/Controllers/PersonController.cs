@@ -27,13 +27,26 @@ namespace Netflix.Areas.AdminPanel.Controllers
         public async Task<IActionResult> GetAllPeople()
         {
 
-            return Ok(await _personService.GetALlPeople());
+            return Ok(await _personService.GetAllPeople());
         }
 
         [HttpGet("{id}")]
         public async Task<IActionResult> GetById([FromRoute] int id)
         {
             return Ok(await _personService.GetByIdAsync(id));
+        }
+
+        [HttpPut("edit/{id}")]
+        public async Task<IActionResult> Edit([FromRoute] int id, PersonEditDto request)
+        {
+            var result = await _personService.UpdatePersonAsync(request);
+            return Ok(result);
+        }
+
+        [HttpDelete]
+        public async Task<IActionResult> DeletePlan([FromRoute] int id)
+        {
+            return Ok(await _personService.DeletePersonAsync(id));
         }
 
     }

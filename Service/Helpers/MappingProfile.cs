@@ -20,9 +20,9 @@ namespace Service.Helpers
 
             CreateMap<PersonCreateDto, Person>();
             CreateMap<Person, GetPeopleDto>();
-            //CreateMap<Plan, PlanEditDto>();
-            //CreateMap<PlanEditDto, Plan>()
-            //    .ForMember(dest => dest.Id, opt => opt.Ignore());
+            CreateMap<Person, PersonEditDto>();
+            CreateMap<PersonEditDto, Person>()
+                .ForMember(dest => dest.Id, opt => opt.Ignore());
         }
     }
 }
